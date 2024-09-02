@@ -1,0 +1,43 @@
+body{
+    background-color:white;
+
+}
+
+#maam{
+    color:darkgreen;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#mis{
+    color: pink;
+    text-align: center;
+    text-decoration:underline;
+
+}
+
+.success{
+    color: rgb(226, 10, 10);
+}
+
+.minute{
+    color: blueviolet;
+}
+
+
+
+/* success=>green
+danger=>red
+warning=>yellow
+primary=>blue
+in css, ee class name kodkknm ennilla ee clr kittan .bt bootstrap,it is predefined
+
+
+.text-success{
+    color:green
+}
+>=that means success ennparayunna text nte clr green */
+/* >=.bg-success{
+
+}
+means background clr green */

@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+}
+
+
+.border{
+    border: 1px solid black;
+
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+} 
+
+.parent{
+    width: 50%;
+    height: 550px;
+    background-color: burlywood;
+    border: 1px solid black;
+}
+
+.child1{
+    width: 50%;
+    height: 100px;
+    background-color: chocolate;
+}
+
+.child2{
+    width: 75%;
+    height: 100px;
+    background-color: rgb(16, 235, 45);
+}
+
+.child3{
+    width:100vw;
+    height: 100px;
+    background-color: rgb(233, 218, 14);
+}
+
+.child4{
+    width:50vw;
+    height: 100px;
+    background-color: rgb(65, 185, 233);
+}
+
+.child5{
+    width: 400px;
+    height: 100px;
+    background-color: rgb(230, 17, 134);
+}
+
+
+
+
+/* css media query-ee screen l enganaya layout vendiye enn eythan media query l pattum */
+
+/* boxmodel */
+

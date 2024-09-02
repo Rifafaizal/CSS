@@ -1,0 +1,54 @@
+.card-group{
+    width: 80%;
+    min-height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.border{
+    border: 1px cornflowerblue solid ;
+
+}
+
+
+.card{
+    width: 30%;
+    min-height: 500px;
+    /* padding: 5px;(space kodkkan) */
+    padding: 10px;
+    background-color: #adc5cf;
+    border-radius: 15px;
+    float: right;
+
+}
+
+
+/* .card-image>img(card image le image) */
+    
+.card-image>img{
+    width: 100% ;
+   
+
+}
+
+.card-body>p{
+    line-height: 20px;
+    text-align: justify;
+}
+
+button{
+    float: right;
+}
+/* pixel-pixel l edthal absolute ayrkkm,
+percentage-parent ne relate cheyth irikkm,parent cherthakkmbo athm cherthakm */
+/* css units-absolute(pixel)
+          relative(%,vh,vw) */
+
+
+
+.card-footer{
+    display: flex;
+    justify-content: space-evenly;
+}         

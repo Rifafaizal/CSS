@@ -1,0 +1,19 @@
+/* class ne use cheyyan css l . use cheyyum */
+.box{
+    width: 300px;
+    height: 150px;
+    border: 1px solid black;
+    border-width: 4px;
+}
+
+.bg-success{
+    background-color: aqua;
+}
+
+.bg-warning{
+    background-color: darkgoldenrod;
+}
+
+.bg-danger{
+    background-color: rgb(233, 105, 154);
+}

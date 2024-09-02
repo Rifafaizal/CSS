@@ -1,0 +1,70 @@
+.border{
+    border: 1px solid black;
+    border-width: 3px;
+}
+
+/* .container{
+    border: 1px solid pink;
+    background-color: gray;
+   
+
+} */
+
+.child1,.child2{
+    width: 30%;
+    height: 50px;
+    background-color: brown;
+    color: beige;
+    
+
+}
+
+.child1{
+    margin-left: 400px;
+}
+
+.child2{
+    margin-top: 500px;
+    margin-left: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.child1{
+    width: 150px;
+    height: 150px;
+    background-color: brown;
+    color: beige;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.child2{
+    width: 150px;
+    height: 150px;
+    background-color: cadetblue;
+    color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */

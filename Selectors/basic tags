@@ -1,0 +1,19 @@
+
+
+
+external-
+>id l orikkalm numbers kodkkan paadilla,numbers mathram ayt kodkkn pattoola
+>tag nte ullil id ahn kodkkne enkil css l # vech represent cheyynm,class ahnel dot(.)vech represent cheyynm
+
+
+
+>css are three types
+>inline,internal,external
+>inline- tag nte ullil thanne set cheyyne
+>internal-html l style tag l css form l cheyyne
+>external-css vere thanne oru pagel kodkkne html vere css vere
+>margin venda enkil kodkkne ahn margin
+output l contaainer nte mele gap ndakm ath oyivakkan ah margin use cheyyne.using methodd is
+   *{
+    margin:0px;
+   }

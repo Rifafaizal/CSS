@@ -1,0 +1,144 @@
+.border{
+    border: 1px black solid;
+}
+
+body{
+    width: 100vw;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin: 5px;
+
+
+}
+.parent{
+    width:100%;
+    height: 220px;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.child{
+    width: 120px;
+    height: 170px;
+    margin: 8px;
+}
+    
+
+
+.bg-1{
+    background-color: darkred;
+}
+
+.bg-2{
+    background-color:darkblue;
+}
+
+.bg-3{
+    background-color:chocolate;
+}
+
+.pbg-4{
+    background-color: gray;
+}
+
+.bg-4{
+    background-color:deeppink;
+}
+
+.bg-5{
+    background-color:orangered;
+}
+
+.bg-6{
+    background-color:beige;
+}
+
+.bg-7{
+    background-color:darkorange;
+}
+
+.bg-8{
+    background-color:firebrick;
+}
+
+.bg-9{
+    background-color:palevioletred;
+}
+
+.bg-10{
+    background-color:rgb(20, 153, 230);
+}
+
+.bg-11{
+    background-color:red;
+}
+
+.bg-12{
+    background-color:rgb(16, 231, 113);
+}
+
+.bg-13{
+    background-color:lightcoral;
+}
+
+.bg-14{
+    background-color:rgb(20, 153, 230);
+}
+
+
+.bg-15{
+    background-color:chocolate;
+}
+
+.bg-16{
+    background-color:cornflowerblue;
+}
+
+.bg-17{
+    background-color:palevioletred;
+}
+
+.bg-18{
+    background-color:yellow;
+}
+
+.bg-19{
+    background-color:green;
+}
+
+.bg-20{
+    background-color:yellowgreen;
+}
+
+.bg-21{
+    background-color:palevioletred;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
